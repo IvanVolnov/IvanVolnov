@@ -17,7 +17,7 @@ I'm a **self-taught Front-End Web Developer** based in Belgrade, Serbia, with a 
 - **State Management**: Redux, Redux Toolkit, React Query
 
 #### **Styling Tools**
-- Tailwind CSS, Styled Components
+- Tailwind CSS, MUI, Styled Components
 
 #### **Database & APIs**
 - PostgreSQL, RESTful APIs
