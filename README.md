@@ -2,6 +2,7 @@
 
 I'm a **self-taught Front-End Web Developer** based in Belgrade, Serbia. Transitioning from a successful career as a Project Manager, I've combined my organizational expertise with my passion for coding to build interactive, user-friendly applications. My focus is on crafting efficient solutions and continually improving my skills in modern web technologies.
 
+
 ### 🔨 I’m Currently Working On  
 [A gym tracking app](https://liftnotes.vercel.app/) to log workouts and track progress. Built with **TypeScript**, **Next.js**, **Node.js**, **Express**, and **PostgreSQL**, I’ll use this app to enhance my own gym routine. Check it out on [GitHub](https://github.com/IvanVolnov/lift-notes-app).
 
